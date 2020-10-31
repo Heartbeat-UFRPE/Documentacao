@@ -18,26 +18,26 @@ CAF,"Sanduíche de Patê de Atum, Suco",287,RC
 CAF,"Bacon, Ovos,Torradas, Café",497,*
 CAF,"Waffles de Banana com Mel, Café com Leite",321,RC
 CAF,"Misto Quente, Abacatada",366,*
-ALM,"Kibe Assado, Abobrinha Italiana",400,RC
-ALM,"Peixe Grelhado, Legumes Grelhados",275,RC
-ALM,"Frango Grelhado ao Limão Siciliano, Batata Doce Rústica com Alecrim",348,*
-ALM,"Carne Moída, Cogumelos ao toque oriental",333,RC
-ALM,"Carne Desfiada, Arroz Integral com Brócolis",425,*
-ALM,"Salmão Grelhado, Arroz de Couve Flor",375,*
-ALM,Espaguete de Cenoura com Ragu de Carne,468,*
-ALM,"Strogonoff de Carne, Arroz Integral com Brócolis",540,*
-ALM,"Frango ao Curry, Arroz 7 Cereais",435,*
-ALM,"Frango Grelhado(Lemon Pepper), Mix de Legumes",385,RC
-ALM,"Frango com Shimeji, Arroz Integral à Grega",473,*
-ALM,Filé de Peixe de Saint Peter com Ratatouille,345,*
-ALM,Peixe ao Molho Taratour com Purê de Ervilha,378,RC
-ALM,Kafta com Homus,300,RC
-ALM,Escondidinho de Carne com Batata Doce,458,*
-ALM,Filé de Saint Peter com Ratatouille,380,RC
-ALM,"Bife Acebolado, Arroz Branco, Feijão Preto",640,*
-ALM,Lasanha à Bolonhesa,775,*
-ALM,"Fricassé de Frango, Arroz Integral, Salada Verde",560,*
-ALM,"Salada, Croutons, Cubos de Frango",225,RC,https://imccalcular.com/alimentos/salada-caesar-com-frango.html
+ALM,"Kibe Assado, Abobrinha Italiana",216,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/kibe-assado?portionid=4238431&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/abobrinha-cozida?portionid=5847520&portionamount=100,000
+ALM,"Peixe Grelhado, Legumes Grelhados",211,RC,https://www.myfitnesspal.com/pt/food/calories/680995767,https://bemestarlight.com.br/produto/legumes-grelhados/
+ALM,"Frango Grelhado ao Limão Siciliano, Batata Doce Rústica com Alecrim",310,RC,https://padellasaobenedito.com.br/frango-grelhado-ao-limao-siciliano-e-ervas,https://panelinhafit.com.br/cardapio/porcoes-individuais/carboidratos/batata-doce-rustica-100g
+ALM,"Carne Moída, Cogumelos ao toque oriental",308,RC,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/204-carne-mo%C3%ADda-refogada,https://www.fatsecret.com.br/Diary.aspx?pa=fjrd&rid=4563164
+ALM,"Carne Desfiada, Arroz Integral com Brócolis",425,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/vapza/carne-desfiada/100g,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/pronto-light/arroz-integral-com-br%C3%B3colis/100g
+ALM,"Salmão Grelhado, Arroz de Couve Flor",211,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/salm%C3%A3o-no-forno-ou-grelhado,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/arroz-de-couve-flor
+ALM,Espaguete de Abobrinha e Cenoura com Ragu de Carne,41,*,https://goomet.com.br/produtos/porcoes-individuais/vegetais/espaguete-de-cenoura-e-abobrinha
+ALM,"Strogonoff de Carne, Arroz Integral com Brócolis",767,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/estrogonofe-de-carne?portionid=50881&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/pronto-light/arroz-integral-com-br%C3%B3colis/100g
+ALM,"Frango ao Curry, Arroz 7 Cereais",946,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/congelados-da-s%C3%B4nia/frango-ao-curry/1-por%C3%A7%C3%A3o,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/r%C3%A1ris/arroz-7-gr%C3%A3os-cozido/100g
+ALM,"Frango Grelhado(Lemon Pepper), Mix de Legumes",435,*,https://gymchef.com.br/frango-lemon-pepper,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/legumes-cozidos
+ALM,"Frango com Shimeji, Arroz Integral à Grega",522,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/pronto-light/frango-com-shimeji/100g,https://light4you.com.br/cardapio/carboidratos/arroz-a-grega
+ALM,Ripa de Costela de Vaca no Churrasco (com Molho),381,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/ripa-de-costela-de-vaca-no-churrasco-(com-molho)?portionid=50061&portionamount=100,000
+ALM,"Salmão Grelhado, Purê de Ervilha",300,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/salm%C3%A3o-no-forno-ou-grelhado,https://www.adrianalauffer.com.br/receita-de-pure-de-ervilhas/
+ALM,Kafta com Homus,294,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/homus?portionid=61076&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/kafta?portionid=2686005&portionamount=100,000
+ALM,Escondidinho de Carne com Batata Doce,130,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/vida-leve/escondidinho-de-carne-com-batata-doce/1-por%C3%A7%C3%A3o
+ALM,Filé de Saint Peter com Ratatouille,202,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/pronto-light/fil%C3%A9-de-saint-peter/100g,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/ratatouille?portionid=55388&portionamount=100,000
+ALM,"Bife Acebolado, Arroz Branco, Feijão Preto",538,*,https://www.fatsecret.com.br/Diary.aspx?pa=fjrd&rid=4673934,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/arroz-branco-(cozido)?portionid=5746160&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/feij%C3%A3o-preto-cozido
+ALM,Lasanha à Bolonhesa,209,*,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/454-lasanha-%C3%A0-bolonhesa
+ALM,"Fricassé de Frango, Arroz Integral, Salada Verde",261,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/fricass%C3%AA-de-frango?portionid=50932&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/arroz-integral-(m%C3%A9dio-cozido)?portionid=62448&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/salada-verde-mista?portionid=54934&portionamount=100,000
+ALM,Salada Caesar,225,RC,https://imccalcular.com/alimentos/salada-caesar-com-frango.html
 JAN,Panqueca de Frango,220,RC,https://www.fatsecret.com.br/Diary.aspx?pa=fjrd&rid=4934459
 JAN,Panqueca de Abobrinha com Alho Poró,218,RC,https://rapidolight.com.br/produto/panqueca-integral-abobrinha-com-alho-poro/
 JAN,Caldo Verde,95,RC,https://www.guiadacaloria.com.br/tabela-nutricional/caldo-verde-calorias
