@@ -1,10 +1,10 @@
-CAF,"Pão Integral, Ricota e Suco de Frutas",240,RC
+CAF,"Pão Integral, Ricota e Suco",240,RC,
 CAF,"Torradas Integrais com requijão, Café",280,RC
 CAF,"1/2 Mamão, Bolacha de Sal, Suco",320,RC
 CAF,"Barra de Cereal, Maçã, Shake Proteico",480,RC
 CAF,"Banana, Sanduíche de Presunto, Leite",260,RC
 CAF,"Maçã, Papa de Aveia, Torradas",440,RC
-CAF,"Torradas com Ricota e Mel, Suco de Abacaxi e Hortelã",300,RC
+CAF,"Torradas com Ricota e Mel, Suco",300,RC
 CAF,"Hamburguer(Cheese Burguer), Suco",500,*
 CAF,"Melancia, Sequilhos Doces, Água",225,*
 CAF,"Salada de Frutas, Mel, Café Expresso",230,RC
@@ -13,7 +13,7 @@ CAF,"Ovo Mexido, Farelo de Aveia e Sementes",150,RC
 CAF,"Tapioca com Queijo, Café com Leite",350,*
 CAF,"Fruta, Iogurte e Cereal",135,RC
 CAF,"Cookie Integral, Melancia, Shake de Proteína",170,RC
-CAF,"Omelete, Suco e Fruta",225,RC
+CAF,"Omelete, Suco",225,RC
 CAF,"Sanduíche de Patê de Atum, Suco",287,RC
 CAF,"Bacon, Ovos,Torradas, Café",497,*
 CAF,"Waffles de Banana com Mel, Café com Leite",321,RC
@@ -37,24 +37,24 @@ ALM,Filé de Saint Peter com Ratatouille,380,RC
 ALM,"Bife Acebolado, Arroz Branco, Feijão Preto",640,*
 ALM,Lasanha à Bolonhesa,775,*
 ALM,"Fricassé de Frango, Arroz Integral, Salada Verde",560,*
-ALM,"Salada, Croutons, Cubos de Frango, Molho Rosê",440,*
-JAN,Panqueca de Frango,330,RC
-JAN,Panqueca de Alho Poró,310,RC
-JAN,Caldo Verde,378,*
-JAN,Caldo de Abóboras,364,*
-JAN,Sopa de Legumes,279,RC
-JAN,Sopa de Galinha,389,*
-JAN,Macaxeira com Charque,625,*
-JAN,Inhame com Ovo,485,*
-JAN,"Cuscuz, Cozido de Bode",565,*
-JAN,"Salada de Frutas, Bolacha Água e Sal, Leite",325,RC
-JAN,"Misto Quente, Achocolatado",489,*
-JAN,"Sequilhos Salgados, Café com Leite, Bolachas Água e Sal",410,*
-JAN,"Picadinho de Filé, Arroz Integral, Vagem",481,*
-JAN,"Carne Moída, Macarrão integral, Brócolis",346,*
-JAN,"Macarronada de Abóbora, Frango ao Limão",338,*
-JAN,"Sanduíche de Peito de Perú e Ricota, Suco",217,RC
-JAN,Batata Doce com Requeijão,302,*
-JAN,Torradas com Patê de Atum,199,RC
-JAN,Waffles com Geléia,284,*
-JAN,"Croissant Misto, Suco",267,*
+ALM,"Salada, Croutons, Cubos de Frango",225,RC,https://imccalcular.com/alimentos/salada-caesar-com-frango.html
+JAN,Panqueca de Frango,220,RC,https://www.fatsecret.com.br/Diary.aspx?pa=fjrd&rid=4934459
+JAN,Panqueca de Abobrinha com Alho Poró,218,RC,https://rapidolight.com.br/produto/panqueca-integral-abobrinha-com-alho-poro/
+JAN,Caldo Verde,95,RC,https://www.guiadacaloria.com.br/tabela-nutricional/caldo-verde-calorias
+JAN,Caldo de Abóboras,40,RC,http://luciliadiniz.com/sopa-de-abobora/
+JAN,Sopa de Legumes com Carne,94,RC,https://www.mundoboaforma.com.br/calorias-da-sopa-de-legumes-tipos-porcoes-e-dicas/
+JAN,Sopa de Galinha,396,*,https://theforkedspoon.com/homemade-chicken-noodle-soup/
+JAN,Macaxeira com Charque,339,*,https://www.gulosoesaudavel.com.br/2015/12/09/escondidinho-macaxeira-carne/
+JAN,Inhame com Ovo,188,RC,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/1876-inhame-cozido,https://www.minhavida.com.br/alimentacao/galerias/14385-prepare-ovos-de-forma-saudavel
+JAN,"Cuscuz, Cozido de Bode",256,RC,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/1756-cuscuz-de-milho-cozido-com-sal,http://tabelacalorias.com/alimento/carne-de-bode/940
+JAN,"Salada de Frutas, Bolacha Água e Sal, Leite",493,*,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1102714/nutrients,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/110157-biscoito-%C3%A1gua-e-sal-adria-
+JAN,"Misto Quente, Achocolatado",408,*,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1098129/nutrients,https://fdc.nal.usda.gov/fdc-app.html#/food-details/171277/nutrients
+JAN,"Sequilhos Salgados, Café com Leite",170,RC,https://www.casapraticaqualita.com.br/produtos/biscoito-de-polvilho-salgado-qualita-200g_p220,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1104150/nutrients,
+JAN,"Picadinho de Filé, Arroz Integral, Vagem",544,*,https://fdc.nal.usda.gov/fdc-app.html#/food-details/174693/nutrients,https://fdc.nal.usda.gov/fdc-app.html#/food-details/382196/nutrients,https://fdc.nal.usda.gov/fdc-app.html#/food-details/372425/nutrients
+JAN,"Carne Moída, Macarrão integral, Brócolis",713,*,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1099599/nutrients,https://fdc.nal.usda.gov/fdc-app.html#/food-details/394813/nutrients
+JAN,"Macarronada de Abóbora, Frango ao Limão",458,*,https://fdc.nal.usda.gov/fdc-app.html#/food-details/516357/nutrients,https://fdc.nal.usda.gov/fdc-app.html#/food-details/173874/nutrients
+JAN,"Sanduíche de Peito de Perú e Ricota, Suco",247,RC,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1099889/nutrients,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1102743/nutrients
+JAN,Batata Doce com Requeijão,430,*,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1103233/nutrients,https://fdc.nal.usda.gov/fdc-app.html#/food-details/566840/nutrients
+JAN,Torradas com Patê de Atum,393,RC,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1100622/nutrients,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1099700/nutrients
+JAN,Waffles com Geléia,637,*,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1101484/nutrients,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1103975/nutrients
+JAN,"Croissant Misto, Suco",478,*,https://www.ohmymag.com.br/croissant/calorias-do-croissant-valores-para-100g-e-ficha-nutricional_art5623.html,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1102743/nutrients
