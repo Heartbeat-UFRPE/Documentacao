@@ -1,23 +1,23 @@
-CAF,"Pão Integral, Ricota e Suco",240,RC,
-CAF,"Torradas Integrais com requijão, Café",280,RC
-CAF,"1/2 Mamão, Bolacha de Sal, Suco",320,RC
-CAF,"Barra de Cereal, Maçã, Shake Proteico",480,RC
-CAF,"Banana, Sanduíche de Presunto, Leite",260,RC
-CAF,"Maçã, Papa de Aveia, Torradas",440,RC
-CAF,"Torradas com Ricota e Mel, Suco",300,RC
-CAF,"Hamburguer(Cheese Burguer), Suco",500,*
-CAF,"Melancia, Sequilhos Doces, Água",225,*
-CAF,"Salada de Frutas, Mel, Café Expresso",230,RC
-CAF,"Sanduíche de Peito de Peru e Queijo de Búfala, Café Preto",300,*
-CAF,"Ovo Mexido, Farelo de Aveia e Sementes",150,RC
-CAF,"Tapioca com Queijo, Café com Leite",350,*
-CAF,"Fruta, Iogurte e Cereal",135,RC
-CAF,"Cookie Integral, Melancia, Shake de Proteína",170,RC
-CAF,"Omelete, Suco",225,RC
-CAF,"Sanduíche de Patê de Atum, Suco",287,RC
-CAF,"Bacon, Ovos,Torradas, Café",497,*
-CAF,"Waffles de Banana com Mel, Café com Leite",321,RC
-CAF,"Misto Quente, Abacatada",366,*
+CAF,"Sanduíche de Patê de Frango, Suco",306,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/lanche-natural?portionid=8231136&portionamount=100,000,https://www3.faac.unesp.br/nos/bom_apetite/tabelas/cal_ali.htm
+CAF,"Torradas, Café",383,RC,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/955-torrada-de-p%C3%A3o-franc%C3%AAs,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/mel?portionid=62267&portionamount=100,000
+CAF,"Mamão, Bolacha de Sal, Suco",556,RC,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/115-biscoito-%C3%A1gua-e-sal-tostines-nestl%C3%A9,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/524-mam%C3%A3o-papaia,https://www3.faac.unesp.br/nos/bom_apetite/tabelas/cal_ali.htm
+CAF,"Cereal, Leite",415,RC,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/1469-cereal-matinal-milho-sem-a%C3%A7%C3%BAcar,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/2212-leite-integral-enriquecido-com-ferro
+CAF,"Banana, Sanduíche de Presunto e queijo, Leite",390,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/sandu%C3%ADche-de-presunto-e-queijo?portionid=62684&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/leite-integral?portionid=49474&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/banana?portionid=54068&portionamount=100,000
+CAF,"Maçã, Torradas",422,RC,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/509-ma%C3%A7%C3%A3-vermelha,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/955-torrada-de-p%C3%A3o-franc%C3%AAs
+CAF,"Torradas com Ricota, Suco",517,RC,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/955-torrada-de-p%C3%A3o-franc%C3%AAs,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/777-ricota
+CAF,"Hamburguer(Cheese Burguer), Suco",333,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/cheeseburger?portionid=62659&portionamount=100,000&frc=True,https://www3.faac.unesp.br/nos/bom_apetite/tabelas/cal_ali.htm
+CAF,"Melancia, Sequilhos Doces, Água",483,*,https://www.guiadacaloria.com.br/tabela-nutricional/sequilho-calorias,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/melancia?portionid=54171&portionamount=100,000
+CAF,"Salada de Frutas, Mel, Café Expresso",357,RC,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/791-salada-de-frutas-banana-ma%C3%A7a-laranjamam%C3%A3o,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/mel?portionid=62267&portionamount=100,000
+CAF,"Sanduíche de Peito de Peru e Queijo de Búfala, Café Preto",269,*,https://www.guiadacaloria.com.br/tabela-nutricional/sanduiche-pao-frances-com-peito-de-peru-defumado-e-queijo-prato-calorias,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/caf%C3%A9-com-leite-integral?portionid=2423068&portionamount=100,000
+CAF,"Ovo Mexido, Farelo de Aveia",447,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/ovo-mexido?portionid=62597&portionamount=100,000,https://www.minhavida.com.br/alimentacao/tudo-sobre/16849-farelo-de-aveia
+CAF,"Tapioca com Queijo, Café com Leite",283,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/tapioca-de-queijo?portionid=8222285&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/caf%C3%A9-com-leite-integral?portionid=2423068&portionamount=100,000
+CAF,"Fruta, Iogurte e Cereal",128,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/ma%C3%A7%C3%A3?portionid=54047&portionamount=100,000,https://www.tabeladecalorias.net/alimento/iogurte,
+CAF,"Cookie Integral, Melancia, Shake de Proteína",726,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/jasmine/cookie-integral-cacau/5-unidades,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/melancia?portionid=54171&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/suplemento-prot%C3%A9ico-em-p%C3%B3?portionid=49746&portionamount=100,000
+CAF,"Omelete, Suco",258,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/omelete-ou-ovos-mexidos?portionid=51794&portionamount=100,000,https://www3.faac.unesp.br/nos/bom_apetite/tabelas/cal_ali.htm
+CAF,"Sanduíche de Patê de Atum, Suco",333,RC,https://www.fatsecret.co.za/calories-nutrition/generic/tuna-melt-sandwich?portionid=51512&portionamount=100.000&frc=True,https://www3.faac.unesp.br/nos/bom_apetite/tabelas/cal_ali.htm
+CAF,"Bacon, Ovos,Torradas, Café",1158,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/bacon?portionid=50197&portionamount=100,000,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/618-ovo-frito,https://cuidai.com.br/alimentacao/busca-de-alimentos/alimentos/955-torrada-de-p%C3%A3o-franc%C3%AAs
+CAF,"Waffles de Banana com Mel, Café com Leite",618,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/waffle-simples?portionid=53054&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/caf%C3%A9-com-leite-integral?portionid=2423068&portionamount=100,000
+CAF,"Misto Quente, Abacatada",450,*,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/misto-quente?portionid=4228203&portionamount=100,000,https://www.ohmymag.com.br/nutricao/calorias-do-abacate-valor-para-100g-e-ficha-nutricional_art5441.html,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/mel?portionid=62267&portionamount=100,000
 ALM,"Kibe Assado, Abobrinha Italiana",216,RC,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/kibe-assado?portionid=4238431&portionamount=100,000,https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/abobrinha-cozida?portionid=5847520&portionamount=100,000
 ALM,"Peixe Grelhado, Legumes Grelhados",211,RC,https://www.myfitnesspal.com/pt/food/calories/680995767,https://bemestarlight.com.br/produto/legumes-grelhados/
 ALM,"Frango Grelhado ao Limão Siciliano, Batata Doce Rústica com Alecrim",310,RC,https://padellasaobenedito.com.br/frango-grelhado-ao-limao-siciliano-e-ervas,https://panelinhafit.com.br/cardapio/porcoes-individuais/carboidratos/batata-doce-rustica-100g
