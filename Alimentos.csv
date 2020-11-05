@@ -1,201 +1,82 @@
-TIPO,REFEICAO,CALORIAS,GORDURAS TOTAIS,CARBOIDRATOS,PROTEINAS,COLESTEROL
-1,food 0,282,201,373,138,340
-0,food 1,27,259,596,143,61
-0,food 2,165,531,61,101,494
-2,food 3,251,479,63,141,189
-1,food 4,571,151,260,418,318
-1,food 5,357,560,282,442,299
-0,food 6,336,548,91,256,464
-0,food 7,267,432,275,68,296
-1,food 8,562,450,256,152,268
-1,food 9,20,530,194,508,153
-1,food 10,310,547,521,244,84
-0,food 11,341,560,456,336,173
-0,food 12,529,544,580,383,485
-2,food 13,120,281,577,405,446
-2,food 14,416,173,581,300,71
-0,food 15,446,358,337,418,255
-2,food 16,98,144,207,112,60
-2,food 17,332,483,411,538,45
-0,food 18,119,564,544,197,579
-1,food 19,151,565,385,390,285
-2,food 20,366,273,50,465,489
-0,food 21,201,105,378,142,527
-1,food 22,43,556,87,183,337
-2,food 23,589,178,577,245,136
-0,food 24,513,134,280,230,481
-0,food 25,89,273,384,374,450
-0,food 26,521,598,264,323,310
-1,food 27,79,179,323,286,389
-1,food 28,99,189,293,548,503
-0,food 29,551,200,427,119,385
-1,food 30,47,524,253,251,321
-0,food 31,183,278,130,359,45
-1,food 32,178,596,437,201,158
-0,food 33,319,89,578,171,76
-2,food 34,357,199,137,71,341
-0,food 35,470,407,100,594,529
-2,food 36,515,265,111,430,494
-0,food 37,307,182,363,488,153
-0,food 38,81,268,267,149,51
-1,food 39,413,62,526,156,128
-1,food 40,215,547,330,539,323
-0,food 41,368,582,480,268,259
-0,food 42,390,462,411,62,540
-1,food 43,110,207,158,154,348
-2,food 44,312,358,358,184,295
-2,food 45,579,547,386,534,337
-0,food 46,60,219,180,529,213
-2,food 47,361,26,205,220,306
-2,food 48,267,210,98,61,48
-2,food 49,445,150,463,149,569
-2,food 50,167,107,597,262,177
-0,food 51,517,439,300,211,475
-0,food 52,205,221,211,540,228
-2,food 53,460,343,52,436,396
-1,food 54,494,343,382,440,163
-0,food 55,55,275,437,401,227
-0,food 56,354,471,146,399,557
-2,food 57,525,190,172,465,334
-1,food 58,436,125,530,480,142
-2,food 59,334,213,327,466,515
-2,food 60,216,467,455,439,567
-2,food 61,414,560,158,197,510
-0,food 62,114,228,285,289,53
-1,food 63,293,274,336,130,44
-2,food 64,52,62,130,575,286
-1,food 65,57,480,243,456,80
-2,food 66,543,520,210,149,244
-0,food 67,248,585,327,383,25
-1,food 68,448,118,363,422,370
-0,food 69,67,296,25,106,309
-1,food 70,417,557,196,327,421
-1,food 71,367,264,494,588,478
-0,food 72,393,585,364,303,262
-0,food 73,52,282,28,339,476
-0,food 74,284,537,60,493,532
-2,food 75,346,68,435,321,281
-0,food 76,53,250,506,552,221
-1,food 77,401,148,284,243,530
-1,food 78,176,20,170,111,364
-1,food 79,57,272,596,470,396
-0,food 80,159,462,21,102,275
-0,food 81,104,38,493,22,226
-1,food 82,489,530,408,477,416
-0,food 83,412,322,573,236,314
-1,food 84,412,556,257,586,155
-2,food 85,134,350,353,394,98
-2,food 86,382,186,518,413,477
-0,food 87,334,27,74,246,293
-2,food 88,278,357,401,38,489
-0,food 89,324,572,434,146,408
-2,food 90,373,306,70,134,502
-0,food 91,493,454,373,564,294
-1,food 92,127,349,446,494,212
-2,food 93,439,269,397,305,94
-0,food 94,233,359,406,145,59
-0,food 95,313,208,592,530,323
-2,food 96,131,289,491,242,225
-1,food 97,311,189,450,593,199
-2,food 98,520,599,284,169,132
-0,food 99,378,39,334,178,159
-0,food 100,350,172,189,327,425
-2,food 101,400,392,322,337,264
-1,food 102,75,203,509,412,379
-0,food 103,502,59,260,523,313
-0,food 104,509,319,302,55,108
-0,food 105,263,115,425,336,94
-0,food 106,422,322,334,344,133
-1,food 107,405,435,379,550,562
-0,food 108,121,213,118,165,257
-0,food 109,543,100,385,530,266
-0,food 110,531,118,518,595,594
-1,food 111,224,378,502,155,580
-1,food 112,332,149,56,103,334
-1,food 113,369,570,343,481,569
-0,food 114,530,169,268,397,422
-0,food 115,467,424,77,415,194
-2,food 116,44,369,532,560,146
-1,food 117,483,108,36,586,207
-2,food 118,367,572,180,133,265
-0,food 119,278,574,68,137,265
-2,food 120,211,156,249,108,410
-2,food 121,77,380,547,253,70
-1,food 122,420,535,461,585,207
-2,food 123,308,572,578,492,524
-0,food 124,361,300,250,251,315
-1,food 125,97,470,108,147,199
-1,food 126,184,363,396,440,245
-2,food 127,491,345,119,500,406
-0,food 128,206,148,220,149,66
-1,food 129,412,407,355,156,50
-2,food 130,191,96,272,453,554
-0,food 131,434,598,578,83,443
-2,food 132,499,384,212,84,377
-2,food 133,207,314,153,157,282
-0,food 134,246,107,356,509,268
-0,food 135,439,162,299,108,180
-1,food 136,423,439,215,296,350
-0,food 137,99,600,162,322,220
-1,food 138,398,226,197,145,190
-0,food 139,387,431,215,508,466
-1,food 140,575,143,317,496,482
-1,food 141,324,298,531,242,110
-2,food 142,314,292,276,244,421
-0,food 143,432,335,243,135,577
-0,food 144,417,579,381,137,421
-2,food 145,100,165,600,220,163
-0,food 146,558,329,511,271,492
-0,food 147,573,468,33,577,147
-0,food 148,250,321,392,577,260
-2,food 149,222,277,454,538,451
-1,food 150,198,329,283,479,399
-0,food 151,324,191,423,86,80
-0,food 152,231,399,222,384,60
-2,food 153,277,97,29,56,235
-1,food 154,60,226,246,110,194
-2,food 155,137,233,240,90,448
-1,food 156,541,112,435,497,585
-2,food 157,199,413,511,208,582
-2,food 158,61,568,590,68,524
-1,food 159,151,284,164,384,293
-1,food 160,458,242,141,441,536
-2,food 161,201,228,352,345,145
-2,food 162,212,221,71,358,462
-2,food 163,579,302,46,186,577
-1,food 164,137,349,455,230,574
-0,food 165,137,58,502,331,472
-1,food 166,461,121,267,295,295
-1,food 167,204,290,522,434,489
-2,food 168,566,390,112,210,596
-1,food 169,169,61,599,579,426
-1,food 170,81,62,504,219,131
-0,food 171,346,120,74,400,465
-1,food 172,191,486,62,358,433
-2,food 173,508,250,520,473,86
-2,food 174,57,478,500,29,83
-2,food 175,400,144,223,446,265
-0,food 176,125,288,404,283,587
-2,food 177,94,543,274,57,542
-1,food 178,116,584,132,450,159
-0,food 179,276,57,238,513,341
-0,food 180,45,417,561,568,70
-2,food 181,396,505,589,354,531
-2,food 182,118,391,509,322,357
-2,food 183,88,53,231,332,265
-0,food 184,109,178,466,338,173
-0,food 185,310,563,381,443,589
-1,food 186,314,573,446,364,373
-0,food 187,288,209,58,32,284
-1,food 188,584,585,596,205,258
-1,food 189,455,109,556,185,182
-1,food 190,299,291,158,558,546
-2,food 191,276,524,103,462,196
-1,food 192,281,21,393,573,526
-1,food 193,450,64,401,307,460
-0,food 194,24,569,528,480,476
-1,food 195,384,56,57,582,387
-0,food 196,376,194,434,198,574
-0,food 197,87,357,388,99,120
-2,food 198,440,121,298,323,303
-0,food 199,106,324,341,331,137
+TIPO;REFEICAO;CALORIAS(KCAL);GORDURAS TOTAIS(G);CARBOIDRATOS(G);PROTEINAS(G)
+-0;"Sanduiche de Pate de Frango, Suco de Laranja";288;"10,8";"43,84";"14,98"
+-0;"Torradas, Cafe";293;"4,0";"54,4";"9,0"
+-0;Mamao, Bolacha de Sal, Suco de Abacaxi";472;"15,23;"90,0";"9,99"
+0;"Cereal, Leite";415;"0,0";"0,0";"0,0"
+0;"Banana, Sanduiche de Presunto e Queijo; Leite";390;"0,0";"0,0";"0,0"
+0;"Maca, Torradas, Suco de Maracuja";422;"0,0";"0,0";"0,0"
+0;"Torrada, Ricota, Suco de Acerola";450;"0,0";"0,0";"0,0"
+0;"Cheeseburguer, Suco de Laranja";333;"0,0";"0,0";"0,0"
+0; Hamburguer(Cheese Burguer), Suco de Laranja;333;"0,0";"0,0";"0,0"
+0;Melancia, Sequilhos Doces, Agua;483;"0,0";"0,0";"0,0"
+0;Salada de Frutas, Mel, 0e Expresso;357;"0,0";"0,0";"0,0"
+0;Sanduiche de Peito de Peru e Queijo de Bufala, 0e Preto;269;"0,0";"0,0";"0,0"
+0;Ovo Mexido, Farelo de Aveia;447;
+0;Tapioca com Queijo, 0e com Leite;283;"0,0";"0,0";"0,0"
+0;Fruta, Iogurte e Cereal;128;"0,0";"0,0";"0,0"
+0;Cookie Integral, Melancia, Shake de Proteina;726;"0,0";"0,0";"0,0"
+0;Omelete, Suco de Laranja;251;"0,0";"0,0";"0,0"
+0;Sanduiche de Pate de Atum, Suco de Laranja;266;"0,0";"0,0";"0,0"
+0;Bacon, Ovos,Torradas, 0e;1158;"0,0";"0,0";"0,0"
+0;Waffles de Banana com Mel, 0e com Leite;618;"0,0";"0,0";"0,0"
+0;Misto Quente, Abacatada;450;"0,0";"0,0";"0,0"
+1;Kibe Assado, Abobrinha Italiana;216;"0,0";"0,0";"0,0"
+1;Peixe Grelhado, Legumes Grelhados;211;"0,0";"0,0";"0,0"
+1;Frango Grelhado ao Limao Siciliano, Batata Doce Rustica com Alecrim;310;"0,0";"0,0";"0,0"
+1;Carne Moida, Cogumelos ao toque oriental;308;"0,0";"0,0";"0,0"
+1;Carne Desfiada, Arroz Integral com Brocolis;425;"0,0";"0,0";"0,0"
+1;S1ao Grelhado, Arroz de Couve Flor;211;"0,0";"0,0";"0,0"
+1;Espaguete de Abobrinha e Cenoura,Carne ao Ragu de Tomate;111;"0,0";"0,0";"0,0"
+1;Strogonoff de Carne, Arroz Integral com Brocolis;767;"0,0";"0,0";"0,0"
+1;Frango ao Curry, Arroz 7 Cereais;946;"0,0";"0,0";"0,0"
+1;Frango Grelhado(Lemon Pepper), Mix de Legumes;435;"0,0";"0,0";"0,0"
+1;Frango com Shimeji, Arroz Integral a Grega,;522;"2,6";"3,0";"15,0"
+1;Ripa de Costela de Vaca no Churrasco (com Molho);381;"32,6";"3,5";"16,99"
+1;Salmao Grelhado, Pure de Ervilha;300;"7,56";"0,49";"23,97"
+1;Kafta com Homus;294;"8,59";"20,12";"4,86"
+1;Escondidinho de Carne com Batata Doce;130;"11,0";"37,0";"20,0"
+1;File de Saint Peter com Ratatouille;202;"5,0";"0,0";"27,0"
+1;Bife Acebolado, Arroz Branco, Feijao Preto;538;"19,0";"0,15";"26,0"
+1;Lasanha a Bolonhesa;209;"9,30";"15,87";"15,46"
+1;Fricasse de Frango, Arroz Integral, Salada Verde;261;"0,0";"0,0";"0,0"
+1;Salada Caesar;225;"0,0";"0,0";"0,0"
+2;Panqueca de Frango;220;"0,0";"0,0";"0,0"
+2;Panqueca de Abobrinha com Alho Poro;218;"0,0";"0,0";"0,0"
+2;Caldo Verde;95;"2,9";"3,53";"14,19"
+2;Caldo de Aboboras;40;"0,0";"0,0";"0,0"
+-2;Sopa de Legumes com Carne;94;"0,0";"0,0";"0,0"
+2;Sopa de Galinha;396;"0,0";"0,0";"0,0"
+2;Macaxeira com Charque;339;"5,65";"22,55";"7,55"
+2;Inhame com Ovo;188;"0,14";"27,58";"1,49"
+2;Cuscuz, Cozido de Bode;256;"0,0";"0,0";"0,0"
+2;Salada de Frutas, Bolacha agua e Sal, Leite;493;"0,0";"0,0";"0,0"
+2;Misto Quente, Achocolatado;408;"0,0";"0,0";"0,0"
+2;Sequilhos Salgados, 0e com Leite;170;"0,0";"0,0";"0,0"
+2;Picadinho de File, Arroz Integral, Vagem;544;"0,0";"0,0";"0,0"
+2;Carne Moi­da, Macarrao integral, Brocolis;713;"0,0";"0,0";"0,0"
+2;Macarronada de Abobora, Frango ao Limao;458;"0,0";"0,0";"0,0"
+*2;Sanduiche de Peito de Peru e Ricota, Suco de Laranja;180;"0,0";"0,0";"0,0"
+2;Batata Doce com Requeijao;430;"0,0";"0,0";"0,0"
+2;Torradas com Pate de Atum;393;"0,0";"0,0";"0,0"
+2;Waffles com Geleia;637;"0,0";"0,0";"0,0"
+2;Croissant Misto, Suco de Laranja;418;"0,0";"0,0";"0,0"
+
+Torradas 293;"4,0";"54,4";"9,0"
+https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/p%C3%A3o-branco-torrado?portionid=61552&portionamount=100,000
+Cafe 1,"0,02","0,04","0,12"
+https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/caf%C3%A9?portionid=56011&portionamount=100,000
+Cafe Espresso 2,"0,18","0","0,12"
+https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/caf%C3%A9-expresso?portionid=56234&portionamount=100,000
+Café com Leite 33,"1,35","3,03","2,16"
+https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/caf%C3%A9-espresso-com-leite?portionid=56017&portionamount=100,000
+
+Abacaxi 56;"0,13";"13,58";"0,38"
+https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/suco-de-abacaxi?portionid=54282&portionamount=100;000
+Acerola 23;"0,31";"4,9";"0,41"
+https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/suco-de-acerola?portionid=58448&portionamount=100;000
+Goiaba 65;"0,15";"16,42";"0,39"
+https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/suco-de-goiaba?portionid=54295&portionamount=100;000
+Maracuja 53;"0,005";"14,21";"0,41"
+https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/suco-de-maracuj%C3%A1?portionid=54280&portionamount=100;000
+Laranja  47;"0,21";"10,9";"0,73"
+https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/suco-de-laranja?portionid=58614&portionamount=100;000
