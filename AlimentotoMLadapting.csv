@@ -1,6 +1,6 @@
 TIPO,REFEICAO,CALORIAS(KCAL),GORDURAS TOTAIS(G),CARBOIDRATOS(G),PROTEINAS(G),K-MEANS(4-GROUPS)
 0,Sanduiche de Pate de Frango e Suco de Laranja,288.00,10.80,43.84,14.98,0
-0,Torradas com Cafe,293,293.00,4.00,54.40,9.00,0
+0,Torradas com Cafe,293.00,4.00,54.40,9.00,0
 0,Mamao com Bolacha de Sal e Suco de Abacaxi,472.00,15.37,99.81,10.60,2
 0,Cereal e Leite,415.00,3.25,4.52,3.22,2
 0, Leite e Banana com Sanduiche de Presunto e Queijo,390.00,0.33,22.84,1.09,2
